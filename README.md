@@ -2,7 +2,7 @@
 
 
 <div align="center">
- <!-- - 📖 Eu atualmente curso Ciência da Computação. <br> <br> -->
+ - 📖 Eu atualmente curso Ciência da Computação. <br> <br>
  - 💻 Eu atualmente estou estudando desenvolvimento web, mais especificamente HTML, CSS e Javascript <br> <br>
  - 🔭 Meu objetivo atual é um estágio na área <br> <br>
  </div>

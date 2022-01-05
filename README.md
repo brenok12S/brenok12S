@@ -36,4 +36,8 @@
    <img   src="https://user-images.githubusercontent.com/77738770/148061715-2b9cec43-36ee-4b01-bb12-0f7dc90bc270.gif">
  </div>
  
+ <div align="center">
+  <h1> Sobre mim 😊 </h1>
+ <p>Meu nome é Breno sou um estudante de Ciência da Computação, curso escolhido por meu apreço e desejo de aprender sobre tecnologia, e atualmente também estudo desenvolvimento web de forma autodidata, aprendendo HTLM,CSS e Javascript. Gostos de novos desafio, de resolver problemas, aprender novas tecnologias  e ferramentas, e busco uma oportunidade de colocar em prática meus conhecimentos atuais, e aprender mais em um ambiente de trabalho na área de TI.</p>
+ </div>
 

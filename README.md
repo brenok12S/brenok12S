@@ -26,7 +26,7 @@
   <a href="https://instagram.com/brenok12SsS" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brenoferreiradasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/breno-machado-9232ab1b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://account.xbox.com/pt-br/profile?gamertag=brenok12SsS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Xbox-107C10?style=lat-square&logo=xbox&logoColor=white" alt="Xbox" height="28" width="100"></a><br>
+  <a href="https://account.xbox.com/pt-br/profile?gamertag=brenok12SsS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Xbox-107C10?style=lat-square&logo=xbox&logoColor=white" alt="Xbox" height="30" width="300"></a><br>
 </div>
 
   ![Snake animation](https://github.com/brenok12S/brenok12S/blob/output/github-contribution-grid-snake.svg)

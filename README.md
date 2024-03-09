@@ -23,13 +23,12 @@
  ##
  
  <div align="center"> 
-  <a href="https://instagram.com/brenok12SsS" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brenoferreiradasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/breno-machado-9232ab1b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <!-- <a href="https://account.xbox.com/pt-br/profile?gamertag=brenok12SsS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Xbox-107C10?style=lat-square&logo=xbox&logoColor=white" alt="Xbox" height="29.5" width="125"></a><br> -->
 </div>
 
-  ![Snake animation](https://github.com/brenok12S/brenok12S/blob/output/github-contribution-grid-snake.svg)
+  
  
   ##
  
@@ -39,6 +38,6 @@
  
  <div align="center">
   <h1> Sobre mim 😊 </h1>
- <p>Meu nome é Breno sou um estudante de Ciência da Computação, curso escolhido por meu apreço e desejo de aprender sobre tecnologia, e atualmente também estudo desenvolvimento web de forma autodidata, aprendendo HTLM,CSS e Javascript. Gostos de novos desafio, de resolver problemas, aprender novas tecnologias  e ferramentas, e busco uma oportunidade de colocar em prática meus conhecimentos atuais, e aprender mais em um ambiente de trabalho na área de TI.</p>
+ <p>Meu nome é Breno sou um estudante de Ciência da Computação, curso escolhido por meu apreço e desejo de aprender sobre tecnologia, e atualmente também estudo desenvolvimento Java de forma autodidata. Gostos de novos desafio, de resolver problemas, aprender novas tecnologias  e ferramentas, e busco uma oportunidade de colocar em prática meus conhecimentos atuais, e aprender mais em um ambiente de trabalho na área de TI.</p>
  </div>
 
